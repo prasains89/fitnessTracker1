@@ -1,4 +1,6 @@
-public class ecommerce {
+package fitnessTracker;
+
+public class Ecommerce {
 }
 //states:
 // name
@@ -32,7 +34,7 @@ public class ecommerce {
 //add gift card/promotion code /vouchers
 //shipment details
 
-# behaviour
+//#  behaviour
 //displaying product information and images
 // adding items to shopping cart
 //processing payment info

@@ -1,4 +1,6 @@
-public class Main {
+package fitnessTracker;
+
+public class FitnessTracker {
 
 
 // states

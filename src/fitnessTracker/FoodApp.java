@@ -1,4 +1,6 @@
-public class foodapp {
+package fitnessTracker;
+
+public class FoodApp {
 }
 // states
 //name
@@ -16,10 +18,10 @@ public class foodapp {
 //email
 // phone number
 
-# behaviour
+//# behaviour
 // displaying menus and items details
 // pay for food
 //allowing user to place food
 // tracking order status and delivery information
-allowing user to search for specific menu items or restaurants
+//allowing user to search for specific menu items or restaurants
 // rate and review menu items and restaurants
